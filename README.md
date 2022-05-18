@@ -1,6 +1,6 @@
-# awesome-co-saliency-detection
-A curated collection of co-saliency detection, including co-salient object detection, which will be kept updated.
+# Awesome Co-Saliency Detection
 
+A curated collection of co-saliency detection, including co-salient object detection, which will be kept updated.
 
 ❗Updated 2022-05. 
 
@@ -21,8 +21,6 @@ A curated collection of co-saliency detection, including co-salient object detec
 |   03   |  TCYB   |  Global-and-local collaborative learning for co-Salient object detection | Runmin Cong, et al. | [Paper](https://arxiv.org/abs/2204.08917)/[Code](https://github.com/rmcong/GLNet_TCYB2022)/[Proj](https://rmcong.github.io/proj_GLNet.html)
 |   02   |   CVPR   | Democracy Does Matter: Comprehensive Feature Mining for Co-Salient Object Detection | Siyue Yu, Jimin Xiao, et al. | [Paper](https://arxiv.org/abs/2203.05787)/[Code](https://github.com/siyueyu/DCFM)
 |   01   |   CVPR   | Can You Spot the Chameleon? Adversarially Camouflaging Images from Co-Salient Object Detection | Ruijun Gao, Qing Guo, et al. | [Paper](https://arxiv.org/abs/2009.09258)/Code
-|  | &emsp;&emsp;  | <span style="white-space:nowrap;">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</span> | <span style="white-space:nowrap;">&emsp;&emsp;&emsp;&emsp;&emsp;</span>  |
-
 
 ### 2021
 
@@ -35,7 +33,7 @@ A curated collection of co-saliency detection, including co-salient object detec
 |   03   |   AAAI   | Multi-scale Graph Fusion for Co-saliency Detection           | Rongyao Hu, Zhenyun Deng, Xiaofeng Zhu                       | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16951)/Code | 
 |  02   |  TIP  | CycleSegNet: Object Co-segmentation with Cycle Refinement and Region Correspondence | Chi Zhang, et al. | [Paper](https://arxiv.org/abs/2101.01308#)/Code  | 
 |  01   | TMM    | Image Co-saliency Detection and Instance Co-segmentation using Attention Graph Clustering based Graph Convolutional Network | Tengpeng Li, Qingshan Liu, et al.                            |     Paper/Code                                                         |
-|  | &emsp;&emsp;  | <span style="white-space:nowrap;">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</span> | <span style="white-space:nowrap;">&emsp;&emsp;&emsp;&emsp;&emsp;</span>  |
+
 
 
 ### 2020
@@ -52,7 +50,7 @@ A curated collection of co-saliency detection, including co-salient object detec
 |   03   |   TNN    | Robust Deep Co-Saliency Detection With Group Semantic and Pyramid Attention | Zheng-Jun Zhang, et al.                                      | Paper/Code                                                   |
 |   02   |   TMM    | Deep Co-Saliency Detection via Stacked Autoencoder-Enabled Fusion and Self-Trained CNNs | Chung-Chi Tsai, et al.                                       | Paper/Code                                                   |
 |   01   |   TMM    | A New Method and Benchmark for Detecting Co-Saliency Within a Single Image | Hongkai You, et al.                                          | Paper/Code                                                   |
-|  | &emsp;&emsp;  | <span style="white-space:nowrap;">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</span> | <span style="white-space:nowrap;">&emsp;&emsp;&emsp;&emsp;&emsp;</span>  |
+
 
 
 ### 2019
@@ -70,7 +68,7 @@ A curated collection of co-saliency detection, including co-salient object detec
 |   03   |   TIP    | Image Co-Saliency Detection and Co-Segmentation via Progressive Joint Optimization | Chung-Chi Tsai, et al.                                       |                                                              |
 |   02   |   TIP    | Salient Object Detection With Lossless Feature Reflection and Weighted Structural Loss | P. Zhang, Wei Liu, Huchuan Lu, et al.                        |                                                              |
 |   01   |   TCYB   | An Iterative Co-Saliency Framework for RGBD Images           | Runmin Cong, et al.                                          |                                                              |
-|  | &emsp;&emsp;  | <span style="white-space:nowrap;">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</span> | <span style="white-space:nowrap;">&emsp;&emsp;&emsp;&emsp;&emsp;</span>  |
+
 
 
 ### Before
@@ -88,7 +86,7 @@ A curated collection of co-saliency detection, including co-salient object detec
 |   2017   |   AAAI   | Image Cosegmentation via Saliency-Guided Constrained Clustering with Cosine Similarity | Zhiqiang Tao, Huazhu Fu, et al.                              | [Paper](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14331)/Code |
 |   2016   |   IJCV   | Detection of Co-salient Objects by Looking Deep and Wide     | Dingwen Zhang, Junwei Han, et al.                            |                                                              |
 |   2016   |   ECCV   | <span style="white-space:nowrap;">Image Co-segmentation Using Maximum Common Subgraph Matching and Region Co-growing &emsp;</span> | <span style="white-space:nowrap;">Avik Hati, S. Chaudhuri, Rajbabu Velmurugan&emsp;</span> |                                                             
-|  | &emsp;&emsp;  | <span style="white-space:nowrap;">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</span> | <span style="white-space:nowrap;">&emsp;&emsp;&emsp;&emsp;&emsp;</span>  |
+
 
 
 
