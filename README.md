@@ -2,7 +2,7 @@
 
 A curated collection of co-saliency detection, including co-salient object detection, which will be kept updated.
 
-❗Updated 2022-05. 
+❗Update 2022-05. 
 
 
 ### Preprints
