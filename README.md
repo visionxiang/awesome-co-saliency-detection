@@ -9,8 +9,8 @@ A curated collection of co-saliency detection, including co-salient object detec
 
 | **Year** | **Pub.** | **Title**                                                    | **Author**                                                   | **Links**                                                    |
 | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
-|   02   |  arXiv2108 | Free Lunch for Co-Saliency Detection: Context Adjustment | Lingdong Kong, Prakhar Ganesh, et al. | [Paper](https://arxiv.org/abs/2108.02093v4)/[Data](http://ldkong.com/data/sets/cat/home)
-|   01   |  arXiv2104 | CoSformer: Detecting Co-Salient Object with Transformers | Lv Tang | [Paper](https://arxiv.org/pdf/2104.14729.pdf)/Code
+|   02   |  arXiv | Free Lunch for Co-Saliency Detection: Context Adjustment | Lingdong Kong, Prakhar Ganesh, et al. | [Paper](https://arxiv.org/abs/2108.02093v4)/[Data](http://ldkong.com/data/sets/cat/home)
+|   01   |  arXiv | CoSformer: Detecting Co-Salient Object with Transformers | Lv Tang | [Paper](https://arxiv.org/pdf/2104.14729.pdf)/Code
 
 
 
