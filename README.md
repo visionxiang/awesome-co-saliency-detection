@@ -18,7 +18,7 @@ A curated collection of co-saliency detection, including co-salient object detec
 
 | **Year** | **Pub.** | **Title**                                                    | **Author**                                                   | **Links**                                                    |
 | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
-|   03   |  TCYB   |  Global-and-local collaborative learning for co-Salient object detection | Runmin Cong, et al. | [Paper](https://arxiv.org/abs/2204.08917)/[Code](https://github.com/rmcong/GLNet_TCYB2022)/[Proj](https://rmcong.github.io/proj_GLNet.html)
+|   03   |  TCYB   |  Global-and-local collaborative learning for co-Salient object detection | Runmin Cong, et al. | [Paper](https://arxiv.org/abs/2204.08917)/[Code](https://github.com/rmcong/GLNet_TCYB2022)/<br>[Proj](https://rmcong.github.io/proj_GLNet.html)
 |   02   |   CVPR   | Democracy Does Matter: Comprehensive Feature Mining for Co-Salient Object Detection | Siyue Yu, Jimin Xiao, et al. | [Paper](https://arxiv.org/abs/2203.05787)/[Code](https://github.com/siyueyu/DCFM)
 |   01   |   CVPR   | Can You Spot the Chameleon? Adversarially Camouflaging Images from Co-Salient Object Detection | Ruijun Gao, Qing Guo, et al. | [Paper](https://arxiv.org/abs/2009.09258)/Code
 
