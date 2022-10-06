@@ -9,8 +9,7 @@ A curated collection of co-saliency detection, including co-salient object detec
 
 | **Year** | **Pub.** | **Title**                                                    | **Links**                                                    |
 | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- |
-|  05  | arXiv | GCoNet+: A Stronger Group Collaborative Co-Salient Object Detector <br> <sup><sub>*Peng Zheng, Deng-Ping Fan, et al.*</sub></sup> | [Paper](https://arxiv.org/abs/2205.15469v2)/[Code](https://github.com/ZhengPeng7/GCoNet_plus)
-|  04  | arXiv  | Free Lunch for Co-Saliency Detection: Context Adjustment <br> <sup><sub>*Lingdong Kong, et al.*</sub></sup> | [Paper](https://arxiv.org/abs/2108.02093)/[Data](http://ldkong.com/data/sets/cat/home)
+|   04  | arXiv | GCoNet+: A Stronger Group Collaborative Co-Salient Object Detector <br> <sup><sub>*Peng Zheng, Deng-Ping Fan, et al.*</sub></sup> | [Paper](https://arxiv.org/abs/2205.15469v2)/[Code](https://github.com/ZhengPeng7/GCoNet_plus)
 |   03   |  arXiv | A Unified Transformer Framework for Group-based Segmentation: Co-Segmentation, Co-Saliency Detection and Video Salient Object Detection <br> <sup><sub>*Yukun Su, et al.*</sub></sup> | [Paper](https://arxiv.org/abs/2203.04708)/[Code](https://github.com/suyukun666/UFO)
 |   02   |  arXiv | Free Lunch for Co-Saliency Detection: Context Adjustment <br> <sup><sub>*Lingdong Kong, et al.*</sub></sup> | [Paper](https://arxiv.org/abs/2108.02093v4)/[Data](http://ldkong.com/data/sets/cat/home)
 |   01   |  arXiv | CoSformer: Detecting Co-Salient Object with Transformers <br> <sup><sub>*Lv Tang*</sub></sup> | [Paper](https://arxiv.org/pdf/2104.14729.pdf)/Code
