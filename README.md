@@ -2,8 +2,14 @@
 
 A curated collection of co-saliency detection, including co-salient object detection, which will be kept updated.
 
-❗Update 2022-06-27. 
+❗Update 2022-12. 
 
+## Content
+- [Co-salient object detection](#Co-salient-object-detection)
+- [RGB-D Co-salient object detection](#RGB-D-Co-salient-object-detection)
+
+
+## Co-salient object detection 
 
 ### Preprints
 
@@ -20,9 +26,12 @@ A curated collection of co-saliency detection, including co-salient object detec
 
 | **Year** | **Pub.** | **Title**                                                    | **Links**                                                    |
 | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- |
+|   04   |  TCSVT  | TCNet: Co-Salient Object Detection via Parallel Interaction of Transformers and CNNs   <br> <sup><sub>*Yanliang Ge, Qiao Zhang, Tian-Zhu Xiang, Cong Zhang, Hongbo Bi*</sub></sup> | [Paper](https://ieeexplore.ieee.org/document/9968016)/Code
 |   03   |  TCYB   |  Global-and-local collaborative learning for co-Salient object detection <br> <sup><sub>*Runmin Cong, et al.*</sub></sup> | [Paper](https://arxiv.org/abs/2204.08917)/[Code](https://github.com/rmcong/GLNet_TCYB2022)/<br>[Proj](https://rmcong.github.io/proj_GLNet.html)
 |   02   |   CVPR   | Democracy Does Matter: Comprehensive Feature Mining for Co-Salient Object Detection <br> <sup><sub>*Siyue Yu, et al.*</sub></sup> | [Paper](https://arxiv.org/abs/2203.05787)/[Code](https://github.com/siyueyu/DCFM)
 |   01   |   CVPR   | Can You Spot the Chameleon? Adversarially Camouflaging Images from Co-Salient Object Detection <br> <sup><sub>*Ruijun Gao, et al.*</sub></sup> | [Paper](https://arxiv.org/abs/2009.09258)/[Code](https://github.com/tsingqguo/jadena)
+
+
 
 ### 2021
 
@@ -91,4 +100,15 @@ A curated collection of co-saliency detection, including co-salient object detec
 |   2016   |   ECCV   | <span style="white-space:nowrap;">Image Co-segmentation Using Maximum Common Subgraph Matching and Region Co-growing &emsp;</span> <br> <sup><sub>*Avik Hati, Subhasis Chaudhuri, Rajbabu Velmurugan*</sub></sup>      |  [Paper](https://link.springer.com/chapter/10.1007/978-3-319-46466-4_44)/Code
 |   2010   |  CVPR | iCoseg: Interactive Co-segmentation with Intelligent Scribble Guidance `iCoseg` <br> <sup><sub>*Dhruv Batra, Jiebo Luo, et al.*</sub></sup> | [Paper](http://chenlab.ece.cornell.edu/people/adarsh/publications/bkpcl_cvpr10.pdf)/[Data](http://chenlab.ece.cornell.edu/projects/touch-coseg/) |
 |  2007   | CVPR | Learning to Detect A Salient Object `MSRA` <br> <sup><sub>*Tie Liu, Jian Sun, et al.*</sub></sup> | [Paper](http://www.jiansun.org/papers/SalientDetection_CVPR07.pdf)/Code
+
+
+
+## RGB-D Co-salient object detection
+
+
+| **Year** | **Pub.** | **Title**                                                    | **Links**                                                    |
+| :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- |
+|   2022   |   TIP    | Learning Implicit Class Knowledge for RGB-D Co-Salient Object Detection With Transformers <br> <sup><sub>*Ni Zhang, Junwei Han, Nian Liu*</sub></sup>      |  [Paper](https://ieeexplore.ieee.org/document/9810116)/[Code](https://github.com/nnizhang/CTNet)                                                            |
+
+
 
