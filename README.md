@@ -5,11 +5,11 @@ A curated collection of co-saliency detection, including co-salient object detec
 ❗Update 2022-12. 
 
 ## Content
-- [Co-salient object detection](#Co-salient-object-detection)
-- [RGB-D Co-salient object detection](#RGB-D-Co-salient-object-detection)
+- [Co-salient Object Detection](#Co-salient-object-detection)
+- [RGB-D Co-salient Object Detection](#RGB-D-Co-salient-object-detection)
 
 
-## Co-salient object detection 
+## Co-salient Object Detection 
 
 ### Preprints
 
@@ -103,7 +103,7 @@ A curated collection of co-saliency detection, including co-salient object detec
 
 
 
-## RGB-D Co-salient object detection
+## RGB-D Co-salient Object Detection
 
 
 | **Year** | **Pub.** | **Title**                                                    | **Links**                                                    |
