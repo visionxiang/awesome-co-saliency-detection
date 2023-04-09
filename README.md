@@ -2,7 +2,7 @@
 
 A curated collection of co-saliency detection, including co-salient object detection, which will be kept updated.
 
-❗Update 2022-12. 
+❗ [04/2023] Update AAAI2023 & CVPR2023 for CoSOD. 
 
 ## Content
 - [Co-salient Object Detection](#Co-salient-object-detection)
@@ -15,10 +15,22 @@ A curated collection of co-saliency detection, including co-salient object detec
 
 | **Year** | **Pub.** | **Title**                                                    | **Links**                                                    |
 | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- |
-|   04  | arXiv | GCoNet+: A Stronger Group Collaborative Co-Salient Object Detector <br> <sup><sub>*Peng Zheng, Deng-Ping Fan, et al.*</sub></sup> | [Paper](https://arxiv.org/abs/2205.15469v2)/[Code](https://github.com/ZhengPeng7/GCoNet_plus)
-|   03   |  arXiv | A Unified Transformer Framework for Group-based Segmentation: Co-Segmentation, Co-Saliency Detection and Video Salient Object Detection <br> <sup><sub>*Yukun Su, et al.*</sub></sup> | [Paper](https://arxiv.org/abs/2203.04708)/[Code](https://github.com/suyukun666/UFO)
 |   02   |  arXiv | Free Lunch for Co-Saliency Detection: Context Adjustment <br> <sup><sub>*Lingdong Kong, et al.*</sub></sup> | [Paper](https://arxiv.org/abs/2108.02093v4)/[Data](http://ldkong.com/data/sets/cat/home)
 |   01   |  arXiv | CoSformer: Detecting Co-Salient Object with Transformers <br> <sup><sub>*Lv Tang*</sub></sup> | [Paper](https://arxiv.org/pdf/2104.14729.pdf)/Code
+
+
+
+
+### 2023
+
+| **Year** | **Pub.** | **Title**                                                    | **Links**                                                    |
+| :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- |
+|   2023  | CVPR | Co-Salient Object Detection with Uncertainty-aware Group Exchange-Masking  <br> <sup><sub>*Yang Wu, Huihui Song, Bo Liu, Kaihua Zhang, Dong Liu*</sub></sup> | Paper/Code
+|   2023  | CVPR | Discriminative Co-Saliency and Background Mining Transformer for Co-Salient Object Detection  <br> <sup><sub>*Long Li, Junwei Han, Ni Zhang, Nian Liu, Salman Khan, Hisham Cholakkal, Rao Anwer, Fahad Khan*</sub></sup> | Paper/Code
+|   2023  | AAAI | Memory-aided Contrastive Consensus Learning for Co-salient Object Detection   <br> <sup><sub>*Peng Zheng, Jie Qin, Shuo Wang, Tian-Zhu Xiang, Huan Xiong*</sub></sup> | [Paper](https://arxiv.org/abs/2302.14485)/[Code](https://github.com/ZhengPeng7/MCCL)
+|   2023  | PAMI | GCoNet+: A Stronger Group Collaborative Co-Salient Object Detector <br> <sup><sub>*Peng Zheng, Deng-Ping Fan, et al.*</sub></sup> | [Paper](https://arxiv.org/abs/2205.15469v2)/[Code](https://github.com/ZhengPeng7/GCoNet_plus)
+|   2023  | PAMI | Co-Salient Object Detection with Co-Representation Purification  <br> <sup><sub>*Ziyue Zhu, Zhao Zhang, Zheng Lin, Xing Sun, Ming-Ming Cheng*</sub></sup>  | [Paper](https://arxiv.org/abs/2303.07670)/[Code](https://github.com/ZZY816/CoRP)
+|   2023  |  TMM | A Unified Transformer Framework for Group-based Segmentation: Co-Segmentation, Co-Saliency Detection and Video Salient Object Detection <br> <sup><sub>*Yukun Su, et al.*</sub></sup> | [Paper](https://arxiv.org/abs/2203.04708)/[Code](https://github.com/suyukun666/UFO)
 
 
 
@@ -26,7 +38,7 @@ A curated collection of co-saliency detection, including co-salient object detec
 
 | **Year** | **Pub.** | **Title**                                                    | **Links**                                                    |
 | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- |
-|   04   |  TCSVT  | TCNet: Co-Salient Object Detection via Parallel Interaction of Transformers and CNNs   <br> <sup><sub>*Yanliang Ge, Qiao Zhang, Tian-Zhu Xiang, Cong Zhang, Hongbo Bi*</sub></sup> | [Paper](https://ieeexplore.ieee.org/document/9968016)/Code
+|   04   |  TCSVT  | TCNet: Co-Salient Object Detection via Parallel Interaction of Transformers and CNNs   <br> <sup><sub>*Yanliang Ge, Qiao Zhang, Tian-Zhu Xiang, Cong Zhang, Hongbo Bi*</sub></sup> | [Paper](https://ieeexplore.ieee.org/document/9968016)/[Code](https://github.com/zhangqiao970914/TCNet)
 |   03   |  TCYB   |  Global-and-local collaborative learning for co-Salient object detection <br> <sup><sub>*Runmin Cong, et al.*</sub></sup> | [Paper](https://arxiv.org/abs/2204.08917)/[Code](https://github.com/rmcong/GLNet_TCYB2022)/<br>[Proj](https://rmcong.github.io/proj_GLNet.html)
 |   02   |   CVPR   | Democracy Does Matter: Comprehensive Feature Mining for Co-Salient Object Detection <br> <sup><sub>*Siyue Yu, et al.*</sub></sup> | [Paper](https://arxiv.org/abs/2203.05787)/[Code](https://github.com/siyueyu/DCFM)
 |   01   |   CVPR   | Can You Spot the Chameleon? Adversarially Camouflaging Images from Co-Salient Object Detection <br> <sup><sub>*Ruijun Gao, et al.*</sub></sup> | [Paper](https://arxiv.org/abs/2009.09258)/[Code](https://github.com/tsingqguo/jadena)
